@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Aminu Jibrin Aliyu is a dedicated researcher and educator in Electrical and Electronics Engineering, currently pursuing his PhD at [][Universiti Teknologi PETRONAS](https://www.utp.edu.my) under the guidance of Ts. Dr. Ramani Kannan and Ts. Dr. Ho Tatt Wei. He earned his M.Sc. in Electrical Engineering from Ahmadu Bello University, Nigeria, in 2021, focusing his thesis on developing an optimal control strategy for active power filters using delta-connected cascaded H-bridges. Prior to that, he graduated with first-class honors in Electrical Engineering from the same institution in 2017, where he analyzed system collapse incidences on the Nigerian power system for his final year project.\nSince December 2021, Aminu has been serving as a Lecturer II at Ahmadu Bello University, engaging in teaching, lab demonstrations, and student supervision. His research interests include power systems stability, renewable energy integration, and advanced control strategies. He has contributed to several peer-reviewed journals and conferences, including publications in the Savannah Journal of Science and Engineering Technology and presentations at the IEEE International Conference on Power and Energy.\nAminu is proficient in simulation software such as PSIM, MATLAB/SIMULINK, and PSpice, and has experience with Hardware-in-the-Loop (HIL) devices like Typhoon HIL. He is a member of professional organizations including IEEE, the Nigerian Society of Engineers, the International Association of Engineers (IAENG), and the Energy Institute (EI). In recognition of his academic excellence, he was awarded the Petroleum Trust Development Fund (PTDF) Overseas Scholarship in 2023.\nBeyond his professional pursuits, Aminu is fluent in English and Hausa, and enjoys engaging in activities that bridge the gap between academia and industry. He is committed to advancing the field of electrical engineering through innovative research and dedicated teaching."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Me",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nRenewable Energy Integration\nPower Systems Stability\nAdvanced Control Strategies\nApplication of Machine Learning in power Systems"
+  },
+  {
+    "objectID": "about.html#volunteer-work",
+    "href": "about.html#volunteer-work",
+    "title": "About Me",
+    "section": "Volunteer Work",
+    "text": "Volunteer Work\nAminu Jibrin Aliyu is passionate about education and professional development, actively engaging in volunteer work to support learning and career advancement.\nHe serves as the University and College Liaison Officer for the Zeribe Nwosu Foundation (ZNF), a role he has held since January 2023. In this capacity, he helps advance education at all levels by organizing seminars, mentorship programs, and scholarship initiatives that empower students and young professionals to access career opportunities.\nAdditionally, Aminu contributes to the IEEE Universiti Teknologi PETRONAS (UTP) Student Branch as a Newsletter Editor since March 2024. Through this role, he plays a key part in disseminating important updates, research highlights, and industry insights to the IEEE student community.\nHis commitment to mentorship and academic outreach reflects his dedication to fostering the next generation of engineers and researchers."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aminu Jibrin Aliyu",
+    "section": "",
+    "text": "My name is Aminu Jibrin Aliyu, and I am an Electrical and Electronics Engineer dedicated to advancing power systems stability, renewable energy integration, and advanced control strategies. My work focuses on developing innovative solutions to enhance energy efficiency, reliability, and sustainability in modern power systems.\nThis website serves as a platform to showcase my research, publications, and professional journey—from my academic background in Electrical Engineering to my ongoing PhD research at Universiti Teknologi PETRONAS. My expertise spans power electronics, grid-forming inverters, and MATLAB simulations, with a strong emphasis on bridging the gap between academia and industry.\nBeyond research, I am actively involved in mentorship and knowledge sharing, serving as a University and College Liaison Officer at the Zeribe Nwosu Foundation (ZNF) and a Newsletter Editor for the IEEE Universiti Teknologi PETRONAS Student Branch. Through these roles, I contribute to educational initiatives, career mentorship, and the dissemination of technical knowledge.\nI invite you to explore my projects, publications, and professional engagements to learn more about my commitment to driving innovation in electrical and power engineering.\nLearn more about me\n\n\n\n\n\nJanuary 2025: Our conference paper titled Investigation of the Impact of Control Parameter on Virtual Synchronous Generator-Based Grid-Forming Inverters for Enhanced Power System Stability was published in IEEE Xplore.\nDecember 2024: Our conference paper titled Optimizing Solar PV System Performance Using Feedforward Neural Network Control Algorithm was published in IEEE Xplore."
+  },
+  {
+    "objectID": "index.html#latest-updates",
+    "href": "index.html#latest-updates",
+    "title": "Aminu Jibrin Aliyu",
+    "section": "",
+    "text": "January 2025: Our conference paper titled Investigation of the Impact of Control Parameter on Virtual Synchronous Generator-Based Grid-Forming Inverters for Enhanced Power System Stability was published in IEEE Xplore.\nDecember 2024: Our conference paper titled Optimizing Solar PV System Performance Using Feedforward Neural Network Control Algorithm was published in IEEE Xplore."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Journal Articles\n\nJada, A. M., Abdulkarim, A., Mohammed, M., Seidu, I., & Aliyu, A. J. (2024). Optimizing PV Power Production by Incremental Conductance and Model Predictive Control Maximum Power Point Tracking Technique. Savannah Journal of Science and Engineering Technology, 2(5), 203–213. Retrieved from https://www.sajsetjournal.com.ng/index.php/journal/article/view/97\nIliyasu, N., Ahmed, A., Abah, D., Aliyu, A. J., Abdulwahab, I., & Musbahu, D. (2024). Optimal Design of a Hybrid Renewable Energy System as a Substitute Power Source for HAFEDPOLY Kazaure. ATBU Journal Of Science, Technology And Education, 12(2), 375-388. Retrieved from https://www.atbuftejoste.com.ng/index.php/joste/article/view/2113\nDavid Enemali Abah, Ibrahim Abdullahi Shehu, Aminu Jibrin Aliyu, Nuraddeen Adam Iliyasu (2023) Moth Flame Optimization for Optimal Sizing and Placement of Distributed Energy Systems. Zaria Journal of Electrical Engineering Technology, 12(1), 25-34.\nHassan, M. S., Abubakar, A. S., Salisu, S., Aliyu, A. J., & Almustapha, M. D. (2022) Modeling and Implementation of a Self-Tuning Adaptive Controller of an Inverter in a Grid-connected Microgrid. Nigerian Journal of Engineering, 29 (3), 1-5.\nAliyu AJ, Abubakar AS, Kunya AB, Salisu S. Harmonics Mitigation Using Delta Connected Cascaded H-Bridge Based Active Power Filter. Nigerian Journal of Engineering, 28 (3), 70-74. https://www.njeabu.com.ng/?mno=136255\n\n\n\nConference Proceedings Papers\n\nA. J. Aliyu, R. Kannan and H. T. Wei, “Investigation of the Impact of Control Parameter on Virtual Synchronous Generator-Based Grid-Forming Inverters for Enhanced Power System Stability,” 2024 IEEE International Conference on Power and Energy (PECon), Kuala Lumpur, Malaysia, 2024, pp. 92-97, doi: 10.1109/PECon62060.2024.10827664.\nE. S. Siew Wei, N. Kumar, R. Kannan, A. J. Aliyu, A. A and A. S. Arockia Doss, “Optimizing Solar PV System Performance Using Feedforward Neural Network Control Algorithm,” 2024 IEEE Industrial Electronics and Applications Conference (IEACon), Kuala Lumpur, Malaysia, 2024, pp. 146-151, doi: 10.1109/IEACon61321.2024.10797448.\nAliyu, A. J, Iliyasu, N. A & D. E. Abah. (2024). Harmonic Distortion in PV Systems: A Comparative Study of PID and ANN Controllers. 2nd Faculty of Engineering and Technology Conference (FETiCON 2024), 65-69.\nAbah, D. E., Iliyasu, N. A., Aliyu, A. J., & Kabir, A. (2023). Design and Simulation of Hybrid Power Supply for Residential Consumer. 1st Faculty of Engineering and Technology Conference (FETiCON 2023), 463–482.\nAliyu, A. J., Saidu, A. A., Kunya, A. B., & Salisu, S. (2022). Development of Active Power Filter Based on Delta Connected Cascaded H-Bridges. 1st International Conference on Scientific and Academic Research, 50–54."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PhD in Electrical and Electronics Engineering, Universiti Teknologi PETRONAS, Malaysia (Ongoing)\nM.Sc. in Electrical Engineering, Ahmadu Bello University, Zaria (2021)\nB.Sc. in Electrical Engineering (First Class Honours), Ahmadu Bello University, Zaria (2017)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "PhD in Electrical and Electronics Engineering, Universiti Teknologi PETRONAS, Malaysia (Ongoing)\nM.Sc. in Electrical Engineering, Ahmadu Bello University, Zaria (2021)\nB.Sc. in Electrical Engineering (First Class Honours), Ahmadu Bello University, Zaria (2017)"
+  },
+  {
+    "objectID": "cv.html#research-and-professional-experience",
+    "href": "cv.html#research-and-professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research and Professional Experience",
+    "text": "Research and Professional Experience\n\nUniversiti Teknologi PETRONAS (January 2024 - Present)\n\nRole: PhD Researcher\n\n\n\nAhmadu Bello University, Zaria (December 2021 - Present)\n\nRole: Lecturer II\n\n\n\nAhmadu Bello University, Zaria (June 2018 - December 2021)\n\nRole: Assistant Lecturer"
+  },
+  {
+    "objectID": "cv.html#volunteer-experience",
+    "href": "cv.html#volunteer-experience",
+    "title": "Curriculum Vitae",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\n\nZeribe Nwosu Foundation (ZNF) (January 2023 - Present)\n\nRole: University and College Liaison Officer\nOrganizing seminars, mentorship programs, and scholarship initiatives to support students, connecting university students with career and educational opportunities, and collaborating with educators and industry professionals to enhance learning experiences.\n\n\n\nIEEE Universiti Teknologi PETRONAS (UTP) Student Branch (March 2024 - Present)\n\nRole: Newsletter Editor\nWriting, editing, and publishing newsletters covering IEEE events.\n\n…"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nSimulation Software (PSIM, MATLAB/SIMULINK, PSpice)\nHardware in Loop (HIL) device (Typhoon HIL)\nData Analysis (MS Excel)\nProgramming (MATLAB, C++)\nReport Writing (MS-Office, Latex)\n\nDrawing & Editing Tools: (MS-Visio, MS Power Point)"
+  }
+]

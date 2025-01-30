@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+
+website:
+  title: "Aminu Jibrin Aliyu"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Publications"
+        href: publications.qmd
+
+  page-footer: "© 2025 Aminu Jibrin Aliyu"

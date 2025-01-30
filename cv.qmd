@@ -1,0 +1,40 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Education
+- **PhD in Electrical and Electronics Engineering**, Universiti Teknologi PETRONAS, Malaysia (Ongoing)
+- **M.Sc. in Electrical Engineering**, Ahmadu Bello University, Zaria (2021)
+- **B.Sc. in Electrical Engineering (First Class Honours)**, Ahmadu Bello University, Zaria (2017)
+
+## Research and Professional Experience
+### Universiti Teknologi PETRONAS (January 2024 - Present)
+- **Role:** PhD Researcher
+
+### Ahmadu Bello University, Zaria (December 2021 - Present)
+- **Role:** Lecturer II
+
+### Ahmadu Bello University, Zaria (June 2018 - December 2021)
+- **Role:** Assistant Lecturer
+
+## Volunteer Experience
+
+### Zeribe Nwosu Foundation (ZNF) (January 2023 - Present)
+- **Role:** University and College Liaison Officer
+- Organizing seminars, mentorship programs, and scholarship initiatives to support students, connecting university students with career and educational opportunities, and collaborating with educators and industry professionals to enhance learning experiences.
+
+### IEEE Universiti Teknologi PETRONAS (UTP) Student Branch (March 2024 - Present)
+- **Role:** Newsletter Editor
+- Writing, editing, and publishing newsletters covering IEEE events.
+
+
+...
+
+## Skills
+- Simulation Software (PSIM, MATLAB/SIMULINK, PSpice) 
+- Hardware in Loop (HIL) device (Typhoon HIL)
+- Data Analysis (MS Excel)
+- Programming (MATLAB, C\C++)
+- Report Writing (MS-Office, Latex)  
+- Drawing & Editing Tools: (MS-Visio, MS Power Point) 
+

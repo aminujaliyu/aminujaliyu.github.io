@@ -1,0 +1,48 @@
+---
+title: "About Me"
+image: Amin.jpg
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ajaliyu@abu.edu.ng
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/aminujaliyu/
+    - icon: github
+      text: Github
+      href: https://github.com/aminujaliyu
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/aminujaliyu
+
+
+---
+
+Aminu Jibrin Aliyu is a dedicated researcher and educator in Electrical and Electronics Engineering, currently pursuing his PhD at [][Universiti Teknologi PETRONAS](https://www.utp.edu.my) under the guidance of Ts. Dr. Ramani Kannan and Ts. Dr. Ho Tatt Wei. He earned his M.Sc. in Electrical Engineering from Ahmadu Bello University, Nigeria, in 2021, focusing his thesis on developing an optimal control strategy for active power filters using delta-connected cascaded H-bridges. Prior to that, he graduated with first-class honors in Electrical Engineering from the same institution in 2017, where he analyzed system collapse incidences on the Nigerian power system for his final year project.
+
+Since December 2021,  Aminu has been serving as a Lecturer II at [Ahmadu Bello University](https://www.abu.edu.ng), engaging in teaching, lab demonstrations, and student supervision. His research interests include power systems stability, renewable energy integration, and advanced control strategies. He has contributed to several peer-reviewed journals and conferences, including publications in the Savannah Journal of Science and Engineering Technology and presentations at the IEEE International Conference on Power and Energy.
+
+Aminu is proficient in simulation software such as PSIM, MATLAB/SIMULINK, and PSpice, and has experience with Hardware-in-the-Loop (HIL) devices like Typhoon HIL. He is a member of professional organizations including IEEE, the Nigerian Society of Engineers, the International Association of Engineers (IAENG), and the Energy Institute (EI). In recognition of his academic excellence, he was awarded the Petroleum Trust Development Fund (PTDF) Overseas Scholarship in 2023.
+
+Beyond his professional pursuits, Aminu is fluent in English and Hausa, and enjoys engaging in activities that bridge the gap between academia and industry. He is committed to advancing the field of electrical engineering through innovative research and dedicated teaching. 
+
+
+
+## Research Interests
+
+- Renewable Energy Integration
+- Power Systems Stability
+- Advanced Control Strategies
+- Application of Machine Learning in power Systems
+
+## Volunteer Work
+
+Aminu Jibrin Aliyu is passionate about education and professional development, actively engaging in volunteer work to support learning and career advancement.  
+
+He serves as the **University and College Liaison Officer** for the [Zeribe Nwosu Foundation (ZNF)](https://znwosufoundation.org), a role he has held since January 2023. In this capacity, he helps advance education at all levels by organizing seminars, mentorship programs, and scholarship initiatives that empower students and young professionals to access career opportunities.  
+
+Additionally, Aminu contributes to the **IEEE Universiti Teknologi PETRONAS (UTP) Student Branch** as a **Newsletter Editor** since March 2024. Through this role, he plays a key part in disseminating important updates, research highlights, and industry insights to the IEEE student community.  
+
+His commitment to mentorship and academic outreach reflects his dedication to fostering the next generation of engineers and researchers.  

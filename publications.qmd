@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+
+# Journal Articles
+
+1. Jada, A. M., Abdulkarim, A., Mohammed, M., Seidu, I., & **Aliyu, A. J.** (2024). Optimizing PV Power Production by Incremental Conductance and Model Predictive Control Maximum Power Point Tracking Technique. Savannah Journal of Science and Engineering Technology, 2(5), 203–213. Retrieved from https://www.sajsetjournal.com.ng/index.php/journal/article/view/97 
+2.	Iliyasu, N., Ahmed, A., Abah, D., **Aliyu, A. J.**, Abdulwahab, I., & Musbahu, D. (2024). Optimal Design of a Hybrid Renewable Energy System as a Substitute Power Source for HAFEDPOLY Kazaure. ATBU Journal Of Science, Technology And Education, 12(2), 375-388. Retrieved from https://www.atbuftejoste.com.ng/index.php/joste/article/view/2113 
+3.	David Enemali Abah, Ibrahim Abdullahi Shehu, **Aminu Jibrin Aliyu**, Nuraddeen Adam Iliyasu (2023) Moth Flame Optimization for Optimal Sizing and Placement of Distributed Energy Systems. Zaria Journal of Electrical Engineering Technology, 12(1), 25-34. 
+4.	Hassan, M. S., Abubakar, A. S., Salisu, S., **Aliyu, A. J.**, & Almustapha, M. D.  (2022) Modeling and Implementation of a Self-Tuning Adaptive Controller of an Inverter in a Grid-connected Microgrid. Nigerian Journal of Engineering, 29 (3), 1-5.
+5.	 **Aliyu AJ**, Abubakar AS, Kunya AB, Salisu S. Harmonics Mitigation Using Delta Connected Cascaded H-Bridge Based Active Power Filter. Nigerian Journal of Engineering, 28 (3), 70-74. https://www.njeabu.com.ng/?mno=136255
+
+# Conference Proceedings Papers 
+
+6.	**A. J. Aliyu**, R. Kannan and H. T. Wei, "Investigation of the Impact of Control Parameter on Virtual Synchronous Generator-Based Grid-Forming Inverters for Enhanced Power System Stability," 2024 IEEE International Conference on Power and Energy (PECon), Kuala Lumpur, Malaysia, 2024, pp. 92-97, doi: 10.1109/PECon62060.2024.10827664. 
+7.	E. S. Siew Wei, N. Kumar, R. Kannan, **A. J. Aliyu**, A. A and A. S. Arockia Doss, "Optimizing Solar PV System Performance Using Feedforward Neural Network Control Algorithm," 2024 IEEE Industrial Electronics and Applications Conference (IEACon), Kuala Lumpur, Malaysia, 2024, pp. 146-151, doi: 10.1109/IEACon61321.2024.10797448. 
+8.	**Aliyu, A. J**, Iliyasu, N. A & D. E. Abah. (2024). Harmonic Distortion in PV Systems: A Comparative Study of PID and ANN Controllers. 2nd Faculty of Engineering and Technology Conference (FETiCON 2024), 65-69.
+9.	Abah, D. E., Iliyasu, N. A., **Aliyu, A. J.**, & Kabir, A. (2023). Design and Simulation of Hybrid Power Supply for Residential Consumer. 1st Faculty of Engineering and Technology Conference (FETiCON 2023), 463–482.
+10.	**Aliyu, A. J.**, Saidu, A. A., Kunya, A. B., & Salisu, S. (2022). Development of Active Power Filter Based on Delta Connected Cascaded H-Bridges. 1st International Conference on Scientific and Academic Research, 50–54.
