@@ -20,6 +20,7 @@ I invite you to explore my projects, publications, and professional engagements 
 ---
 
 ## Latest Updates
+- **February 2025**: I am proud to announce that I have earned the Certificate of Completion for [HIL Fundamentals](https://hil.academy/courses/hil-fundamentals/)  from HIL Academy, reflecting my commitment to continuous professional growth and excellence.
 
 - **January 2025**: Our [conference paper](https://ieeexplore.ieee.org/document/10827664) titled *Investigation of the Impact of Control Parameter on Virtual Synchronous Generator-Based Grid-Forming Inverters for Enhanced Power System Stability* was published in IEEE Xplore. 
 
