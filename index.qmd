@@ -4,8 +4,6 @@ title: "Aminu Jibrin Aliyu"
 
 # Welcome to My Personal Website
 
-### **Welcome to My Website**  
-
 My name is **Aminu Jibrin Aliyu**, and I am an Electrical and Electronics Engineer dedicated to advancing power systems stability, renewable energy integration, and advanced control strategies. My work focuses on developing innovative solutions to enhance energy efficiency, reliability, and sustainability in modern power systems.  
 
 This website serves as a platform to showcase my research, publications, and professional journey—from my academic background in Electrical Engineering to my ongoing PhD research at **Universiti Teknologi PETRONAS**. My expertise spans **power electronics, grid-forming inverters, and MATLAB simulations**, with a strong emphasis on bridging the gap between academia and industry.  
