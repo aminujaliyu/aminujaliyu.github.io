@@ -9,7 +9,7 @@ about:
       href: mailto:ajaliyu@abu.edu.ng
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/aminujaliyu/
+      href: www.linkedin.com/in/aminujibrinaliyu
     - icon: github
       text: Github
       href: https://github.com/aminujaliyu
