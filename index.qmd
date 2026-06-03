@@ -18,6 +18,9 @@ I invite you to explore my projects, publications, and professional engagements 
 ---
 
 ## Latest Updates
+- **May 2026**: Our [conference paper](https://ieeexplore.ieee.org/document/11518692) titled *Analysis of Dynamic Response of VSG-Controlled Grid-Forming Inverter Under Fault Conditions*, presented in [2026 IEEE 2nd International Conference on Consumer Technology – Pacific (ICCT-Pacific 2026)](https://2026.icct-pacific.org/) was published in IEEE Xplore. 
+
+- **May 2026**: Happy to share that I have begun a PhD internship at [L2EP](https://l2ep.univ-lille.fr/) located in Lille, France.
 
 - **June 2025**: Happy to share that our article titled ["Impacts of electrode geometry and gap length on the breakdown voltage of insulating liquids"](https://kjset.kiu.ac.ug/article-view.php?i=83&t=impacts-of-electrode-geometry-and-gap-length-on-the-breakdown-voltage-of-insulating-liquids) has been published in [KIU Journal of Science, Engineering and Technology (KJSET)](https://kjset.kiu.ac.ug/index.php)
 
